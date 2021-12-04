@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638587178 source:c:\users\iresh vm\documents\cpp\library management system\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
